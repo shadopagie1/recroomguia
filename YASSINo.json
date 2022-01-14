@@ -37,7 +37,7 @@
       "enable_update_closed" : false,
       "update_action" : "",
       "update_msg" : "",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : ""
     },
     "app" : {
