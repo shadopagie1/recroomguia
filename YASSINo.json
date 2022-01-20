@@ -13,7 +13,7 @@
       "admob_unit_id" : ""
     },
     "appodeal" : {
-      "appodeal_app_key" : ""
+      "appodeal_app_key" : "03f1faab88b4598df4997569a9db499cd970e45eb64ec6ab"
     },
     "facebook" : {
       "facebook_banner_id" : "682929456225246_682933462891512",
@@ -21,7 +21,7 @@
       "facebook_native_id" : "682929456225246_682933572891501",
       "facebook_native_banner_id" : ""
     },
-    "mode_ads_banner" : "facebook",
+    "mode_ads_banner" : "appodeal",
     "mode_ads_interstitial" : "facebook",
     "mode_ads_interstitial_mix" : "facebook",
     "mode_ads_native_enabled" : true,
